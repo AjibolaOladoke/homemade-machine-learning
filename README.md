@@ -6,7 +6,7 @@ A practical reference entry for product and engineering: the homemade-machine-le
 
 ## Images
 
-[![homemade-machine-learning](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![homemade-machine-learning](images/preview.png)](https://github.com/Swift-Tech-Co/homemade-machine-learning)
 
 ## Supervised Learning
 
@@ -133,6 +133,14 @@ You may support this project via ❤️️ [GitHub](https://github.com/sponsors/
 ## Author
 
 - [@trekhleb](https://trekhleb.dev)
+
+## Sources
+
+Compiled and maintained from upstream [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
